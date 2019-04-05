@@ -1,4 +1,4 @@
-module github.com/markbates/goth
+module github.com/jrbury/goth
 
 require (
 	cloud.google.com/go v0.30.0 // indirect
